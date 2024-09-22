@@ -1,1 +1,2 @@
-// dev branch for Y.Practicum
+// dev branch for Mike Maksimov
+// practical work №2 generics
